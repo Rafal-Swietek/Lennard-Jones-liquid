@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528023049 source:c:\users\swiet\desktop\monte carlo\lennard-jones liquid\cpp\lj-liquid\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+
